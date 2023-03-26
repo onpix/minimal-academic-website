@@ -1,6 +1,6 @@
 # minimal-academic-website
 
-A minimalist academic webpage built using only ~100 lines of HTML code. Check out the demo website ![here](https://onpix.github.io/minimal-academic-website/).
+A minimalist academic webpage built using only ~100 lines of HTML code. Check out the demo website [here](https://onpix.github.io/minimal-academic-website/).
 
 ![](screenshot.png)
 
